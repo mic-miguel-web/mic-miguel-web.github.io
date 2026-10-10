@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mic-miguel-web.github.io/sitemap.xml
